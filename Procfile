@@ -1,1 +1,1 @@
-web node client/npm start
+web: bin/boot
