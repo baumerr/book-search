@@ -1,1 +1,1 @@
-web node client/start
+web node client/npm start
